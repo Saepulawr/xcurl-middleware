@@ -1,0 +1,24 @@
+{
+    "name": "saepulawr/xcurl-middleware",
+    "type": "library",
+    "description": "Library curl",
+    "keywords": ["curl","php"],
+    "homepage": "hhttps://github.com/Saepulawr/xcurl-middleware",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saepulawr",
+            "homepage": "https://github.com/saepulawr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    
+    "autoload": {
+        "classmap": [
+            "Xcurl.php"
+        ]
+    }
+}
